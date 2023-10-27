@@ -1,7 +1,9 @@
-- Hi, I'm Jacob Triebwasser
+- Hi, I'm Jacob.
 - I'm interested in mathematics, low-level computation, games, and emulation.
-- I'm currently learning Rust, but have a good grasp on JS, TS, Python, C, C++, C#, Haskell, and to a lesser extent Idris.
-- I'm not currently looking to collaborate, but that may change in the future.
+- I tend to work primarily with low-level languages like Rust, C, and C++, but I do have experience in
+  higher level languages like JS, TS, C#, Haskell, Idris, and Agda.
+- I recently acquired books on Fortran 90 and COBOL, so they'll likely make an appearance soon.
+- I also have an affinity for more... unique languages. APL, Whitespace, Ook, Befunge, INTERCAL. The weird stuff.
 - You can reach me at jacob.triebwasser@gmail.com, but know that I may be slow to reply due to my work obligations coming first.
 
 <!---
